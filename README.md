@@ -2,4 +2,4 @@
 This is the zip package of W3C Javascript tutorial mirrored on 9 Feb, 2020.
 Just extract the given file and open index.html and then you can access it offline.
 
-On Mobile you can access it under the 'View code' tab.
+On Mobile you can access the file under the 'View code' tab.
